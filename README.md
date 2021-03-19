@@ -11,3 +11,4 @@
 * 브라질 - wordchain2
 2nd round
 * 질갱이 - wordchain1
+* 이발소 - wordchain2
