@@ -6,5 +6,8 @@
 
 제시어
 <br/>
+1st round
 * 깃허브 - wordchain1
 * 브라질 - wordchain2
+2nd round
+* 질갱이 - wordchain1
