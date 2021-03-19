@@ -15,3 +15,8 @@
 
 * 질갱이 - wordchain1
 * 이발소 - wordchain2
+
+3rd round
+
+* 소나기 - wordchain1
+* 기념품 - wordchain2
